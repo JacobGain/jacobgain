@@ -35,27 +35,10 @@ I've worked with:
 
 - **OpenAI APIs** for LLM-powered automation
 - **MCP** for connecting AI agents with external tools and data
-- **Claude Code** and **ChatGPT Codex** as part of my development and debugging workflow
+- **Claude Code** and **ChatGPT Codex** as part of my development, debugging, and deployment workflows
 - AI-assisted workflows for reporting, monitoring, and repetitive engineering tasks
 
 I'm continuing to explore how these tools can be used reliably in real software rather than treating AI as a feature on its own.
-
-## Selected Projects
-
-### [PoGo Team Lab](https://pogoteamlab.com)
-Competitive Pokémon GO roster and team analysis built around open-source battle and ranking data.
-
-`React` `TypeScript` `Vite` `IndexedDB` `Zustand` `Vitest`
-
-### TripRabbit
-A native Android mileage tracker designed around local storage and user privacy, with no account or cloud storage required.
-
-`Kotlin` `Jetpack Compose` `Android`
-
-### Autonomous Drone Stabilization
-A Software Engineering capstone project focused on autonomous stabilization under wind and other external disturbances.
-
-`Autonomous Systems` `Control` `UAVs`
 
 ## What I'm Interested In
 
