@@ -1,51 +1,47 @@
 # Hey, I'm Jacob 👋
 
-I'm a Software Engineering student at Western University with experience building and shipping production software across native mobile, backend, data, and automation workflows.
+I'm a Software Engineering student at Western University with experience building and shipping production software across mobile, backend, data, and automation.
 
-I enjoy working through the full development process, from ideating, to building, to testing, and getting the project into users' hands. Figuring out how to make it better from there is one of my favourite steps of the engineering workflow. I'm especially interested in **automotive software** and **AI as part of the product experience**.
+I enjoy working through the full development process. From figuring out a problem, to building and testing a solution, then getting it into users' hands and improving the solution from there.
 
-## What I'm Working On
+---
 
-- **[PoGo Team Lab](https://pogoteamlab.com)** — A local-first team building and analysis tool for competitive Pokémon GO, built with React and TypeScript.
-- **TripRabbit** — A privacy-focused native Android app for tracking vehicle mileage and odometer history.
-- **Autonomous Drone Stabilization** — Capstone work exploring how drones can detect and compensate for external disturbances such as wind gusts.
+## 🚧 What I'm Working On
 
-## What I Work With
+- **[PoGo Team Lab](https://pogoteamlab.com)** — Local-first team building and analysis for competitive Pokémon GO
+- **TripRabbit** — Privacy-focused native Android mileage and odometer tracking
+- **Autonomous Drone Stabilization** — Capstone work exploring autonomous compensation for wind and external disturbances
 
-**Languages**  
-TypeScript · Kotlin · Java · Swift · Python · SQL · JavaScript · C/C++
+---
 
-**Mobile**  
-Android · iOS · Jetpack Compose · UIKit · SwiftUI
+## 🛠️ What I Work With
 
-**Web & Backend**  
-React · Node.js · REST APIs · SvelteKit · Astro
+| | |
+| --- | --- |
+| 📱 **Mobile** | Android · iOS · Jetpack Compose · UIKit · SwiftUI |
+| 🌐 **Web & Backend** | React · Node.js · REST APIs · SvelteKit · Astro |
+| 💻 **Languages** | TypeScript · Kotlin · Java · Swift · Python · SQL · JavaScript · C/C++ |
+| ☁️ **Data & Cloud** | Snowflake · PostgreSQL · AWS · Docker |
+| ⚙️ **Development** | Git · GitHub Actions · CI/CD · Automated Testing · Sentry |
 
-**Data & Cloud**  
-Snowflake · PostgreSQL · AWS · Docker
+---
 
-**Development**  
-Git · GitHub Actions · CI/CD · Automated Testing · Sentry
+## 🤖 AI & Developer Workflows
 
-## AI & Developer Workflows
+I'm interested in AI both as a development tool and as part of the products being built.
 
-I'm interested in AI beyond using it as a coding assistant, particularly where it can become part of a product or automate an existing workflow.
+I've worked with **OpenAI APIs**, **MCP**, and **Claude Code**, along with AI-assisted workflows for automation, monitoring, debugging, and repetitive engineering tasks.
 
-I've worked with:
+---
 
-- **OpenAI APIs** for LLM-powered automation
-- **MCP** for connecting AI agents with external tools and data
-- **Claude Code** and **ChatGPT Codex** as part of my development, debugging, and deployment workflows
-- AI-assisted workflows for reporting, monitoring, and repetitive engineering tasks
+## 🏎️ What I'm Interested In
 
-I'm continuing to explore how these tools can be used reliably in real software rather than treating AI as a feature on its own.
+I'm especially interested in **automotive software** and **AI products**.
 
-## What I'm Interested In
+I've always been drawn to the software behind tuning, diagnostics, vehicle communication, and modern automotive systems. At the same time, I'm interested in building products where AI is actually useful for automating workflows, solving problems more efficiently, or improving how someone interacts with software.
 
-A lot of what I'm drawn to comes back to understanding how things work and finding ways to improve them.
+---
 
-On the automotive side, I'm particularly interested in **tuning, diagnostics, vehicle communication, embedded systems, and the software behind modern vehicles**. I'm also interested in **AI-driven products**, especially when AI meaningfully changes how someone interacts with software or approaches a problem.
+## 📫 Connect
 
-## Connect
-
-🌐 [Portfolio](https://jacobgain.dev) · 💼 [LinkedIn](https://linkedin.com/in/jacobgain) · ✉️ [jacob.gain04@gmail.com](mailto:jacob.gain04@gmail.com)
+🌐 [Portfolio](https://jacobgain.dev) · 💼 [LinkedIn](https://linkedin.com/in/jacobgain) · ✉️ [Email](mailto:jacob.gain04@gmail.com)
