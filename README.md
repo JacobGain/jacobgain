@@ -1,4 +1,3 @@
-```markdown
 # Hey, I'm Jacob 👋
 
 I'm a Software Engineering student at Western University with experience building and shipping production software across native mobile, backend, data, and automation workflows.
@@ -66,5 +65,4 @@ On the automotive side, I'm particularly interested in **tuning, diagnostics, ve
 
 ## Connect
 
-[LinkedIn](https://linkedin.com/in/jacobgain) · [Email](mailto:jacob.gain04@gmail.com)
-```
+🌐 [Portfolio](https://jacobgain.dev) · 💼 [LinkedIn](https://linkedin.com/in/jacobgain) · ✉️ [jacob.gain04@gmail.com](mailto:jacob.gain04@gmail.com)
