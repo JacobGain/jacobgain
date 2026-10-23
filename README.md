@@ -30,7 +30,7 @@ I enjoy working through the full development process. From figuring out a proble
 
 I'm interested in AI both as a development tool and as part of the products being built.
 
-I've worked with **OpenAI APIs**, **MCP**, and **Claude Code**, along with AI-assisted workflows for automation, monitoring, debugging, and repetitive engineering tasks.
+I've worked with **OpenAI APIs**, **MCP**, **Claude Code**, and **ChatGPT Codex** with AI-assisted workflows for automation, monitoring, debugging, and repetitive engineering tasks.
 
 ---
 
