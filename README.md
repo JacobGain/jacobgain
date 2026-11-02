@@ -10,19 +10,7 @@ I enjoy working through the full development process. From figuring out a proble
 
 - **[PoGo Team Lab](https://pogoteamlab.com)** — Local-first team building and analysis for competitive Pokémon GO
 - **TripRabbit** — Privacy-focused native Android mileage and odometer tracking
-- **Autonomous Drone Stabilization** — Capstone work exploring autonomous compensation for wind and external disturbances
-
----
-
-## 🛠️ What I Work With
-
-| | |
-| --- | --- |
-| 📱 **Mobile** | Android · iOS · Jetpack Compose · UIKit · SwiftUI |
-| 🌐 **Web & Backend** | React · Node.js · REST APIs · SvelteKit · Astro |
-| 💻 **Languages** | TypeScript · Kotlin · Java · Swift · Python · SQL · JavaScript · C/C++ |
-| ☁️ **Data & Cloud** | Snowflake · PostgreSQL · AWS · Docker |
-| ⚙️ **Development** | Git · GitHub Actions · CI/CD · Automated Testing · Sentry |
+- **WRAD** — Capstone work exploring autonomous compensation for wind and external disturbances
 
 ---
 
