@@ -9,8 +9,9 @@ I enjoy working through the full development process. From figuring out a proble
 ## 🚧 What I'm Working On
 
 - **[PoGo Team Lab](https://pogoteamlab.com)** — Local-first team building and analysis for competitive Pokémon GO
+- **Click** - A native iOS story-based puzzle game centred around lock picking
 - **TripRabbit** — Privacy-focused native Android mileage and odometer tracking
-- **WRAD** — Capstone work exploring autonomous compensation for wind and external disturbances
+- **WRAD** — Capstone work exploring autonomous drone stabilization for wind gusts and other external disturbances
 
 ---
 
