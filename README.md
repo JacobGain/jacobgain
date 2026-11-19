@@ -6,7 +6,7 @@ I enjoy working through the full development process. From figuring out a proble
 
 ---
 
-## 🚧 What I'm Working On
+## 🛠️ What I'm Working On
 
 - **[PoGo Team Lab](https://pogoteamlab.com)** — Local-first team building and analysis for competitive Pokémon GO
 - **Click** - A native iOS story-based puzzle game centred around lock picking
